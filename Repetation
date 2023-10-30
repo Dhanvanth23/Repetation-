@@ -1,0 +1,2 @@
+str=("Beast")
+print(str*3)
